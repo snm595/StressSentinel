@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": 1772359287.0251782,
+    "cpu_percent": 0.0,
+    "process_cpu_percent": 99.2,
+    "thread_count": 1,
+    "load_avg": 1.703125
+  },
+  {
+    "timestamp": 1772359288.0307689,
+    "cpu_percent": 13.1,
+    "process_cpu_percent": 0.1,
+    "thread_count": 1,
+    "load_avg": 1.703125
+  },
+  {
+    "timestamp": 1772359289.0374641,
+    "cpu_percent": 13.8,
+    "process_cpu_percent": 0.2,
+    "thread_count": 1,
+    "load_avg": 1.703125
+  },
+  {
+    "timestamp": 1772359290.039267,
+    "cpu_percent": 13.0,
+    "process_cpu_percent": 0.1,
+    "thread_count": 1,
+    "load_avg": 1.703125
+  },
+  {
+    "timestamp": 1772359291.045727,
+    "cpu_percent": 11.7,
+    "process_cpu_percent": 0.2,
+    "thread_count": 1,
+    "load_avg": 1.646484375
+  },
+  {
+    "timestamp": 1772359292.047658,
+    "cpu_percent": 14.9,
+    "process_cpu_percent": 0.1,
+    "thread_count": 1,
+    "load_avg": 1.646484375
+  },
+  {
+    "timestamp": 1772359293.053612,
+    "cpu_percent": 12.8,
+    "process_cpu_percent": 0.1,
+    "thread_count": 1,
+    "load_avg": 1.646484375
+  },
+  {
+    "timestamp": 1772359294.0556328,
+    "cpu_percent": 11.4,
+    "process_cpu_percent": 0.1,
+    "thread_count": 1,
+    "load_avg": 1.646484375
+  },
+  {
+    "timestamp": 1772359295.06224,
+    "cpu_percent": 13.7,
+    "process_cpu_percent": 0.2,
+    "thread_count": 1,
+    "load_avg": 1.646484375
+  },
+  {
+    "timestamp": 1772359296.064723,
+    "cpu_percent": 17.1,
+    "process_cpu_percent": 0.1,
+    "thread_count": 1,
+    "load_avg": 1.83447265625
+  },
+  {
+    "timestamp": 1772359297.0711539,
+    "cpu_percent": 12.2,
+    "process_cpu_percent": 0.1,
+    "thread_count": 1,
+    "load_avg": 1.83447265625
+  },
+  {
+    "timestamp": 1772359298.074792,
+    "cpu_percent": 12.7,
+    "process_cpu_percent": 0.2,
+    "thread_count": 1,
+    "load_avg": 1.83447265625
+  },
+  {
+    "timestamp": 1772359299.080065,
+    "cpu_percent": 11.6,
+    "process_cpu_percent": 0.2,
+    "thread_count": 1,
+    "load_avg": 1.83447265625
+  },
+  {
+    "timestamp": 1772359300.081876,
+    "cpu_percent": 13.6,
+    "process_cpu_percent": 0.2,
+    "thread_count": 1,
+    "load_avg": 1.83447265625
+  },
+  {
+    "timestamp": 1772359301.0889978,
+    "cpu_percent": 12.6,
+    "process_cpu_percent": 0.2,
+    "thread_count": 1,
+    "load_avg": 1.84765625
+  }
+]

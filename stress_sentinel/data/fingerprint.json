@@ -1,0 +1,18 @@
+{
+  "cpu_percent": {
+    "mean": 9.973469,
+    "std": 4.013385
+  },
+  "process_cpu_percent": {
+    "mean": 0.169388,
+    "std": 0.054226
+  },
+  "thread_count": {
+    "mean": 8.0,
+    "std": 0.0
+  },
+  "load_avg": {
+    "mean": 1.642505,
+    "std": 0.014889
+  }
+}
