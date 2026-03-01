@@ -298,29 +298,32 @@ def generate_insights(df: pd.DataFrame) -> list:
     return insights[:4]  # Return top 4 insights
 
 
-def create_enhanced_chart(df: pd.DataFrame, metric: str, title: str, color: str, height: int = 300):
-    """Create an enhanced line chart with better styling."""
+def create_enhanced_chart(
+    df: pd.DataFrame,
+    metric: str,
+    title: str,
+    color: str,
+    height: int = 300,
+):
     chart_data = df[metric]
-    
-    # Create a more detailed chart using Streamlit's native line_chart with custom styling
+
     st.subheader(f"**{title}**")
-    
-    # Add some statistics
+
     latest_val = chart_data.iloc[-1]
     avg_val = chart_data.mean()
     max_val = chart_data.max()
-    
-    col1, col2, col3 = st.columns(3)
-    with col1:
-        st.metric("Current", f"{latest_val:.1f}")
-    with col2:
-        st.metric("Average", f"{avg_val:.1f}")
-    with col3:
-        st.metric("Peak", f"{max_val:.1f}")
-    
-    # The actual chart
-    st.line_chart(chart_data, color=color, height=height)
 
+    c1, c2, c3 = st.columns(3)
+    with c1:
+        st.metric("Current", f"{latest_val:.1f}")
+    with c2:
+        st.metric("Average", f"{avg_val:.1f}")
+    with c3:
+        st.metric("Peak", f"{max_val:.1f}")
+
+    # IMPORTANT: chart slot must be created every rerun
+    chart_slot = st.empty()
+    chart_slot.line_chart(chart_data, height=height)
 
 # ── Main UI ──────────────────────────────────────────────
 # Header with status

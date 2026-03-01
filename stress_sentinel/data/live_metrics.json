@@ -1,107 +1,702 @@
 [
   {
-    "timestamp": 1772359287.0251782,
-    "cpu_percent": 0.0,
-    "process_cpu_percent": 99.2,
+    "timestamp": 1772361744.325322,
+    "cpu_percent": 27.6,
+    "process_cpu_percent": 0.7,
     "thread_count": 1,
-    "load_avg": 1.703125
+    "load_avg": 2.3857421875
   },
   {
-    "timestamp": 1772359288.0307689,
-    "cpu_percent": 13.1,
-    "process_cpu_percent": 0.1,
+    "timestamp": 1772361744.531046,
+    "cpu_percent": 26.7,
+    "process_cpu_percent": 0.8,
     "thread_count": 1,
-    "load_avg": 1.703125
+    "load_avg": 2.3857421875
   },
   {
-    "timestamp": 1772359289.0374641,
-    "cpu_percent": 13.8,
-    "process_cpu_percent": 0.2,
-    "thread_count": 1,
-    "load_avg": 1.703125
-  },
-  {
-    "timestamp": 1772359290.039267,
+    "timestamp": 1772361744.7341912,
     "cpu_percent": 13.0,
-    "process_cpu_percent": 0.1,
+    "process_cpu_percent": 1.2,
     "thread_count": 1,
-    "load_avg": 1.703125
+    "load_avg": 2.3857421875
   },
   {
-    "timestamp": 1772359291.045727,
-    "cpu_percent": 11.7,
-    "process_cpu_percent": 0.2,
+    "timestamp": 1772361744.9379451,
+    "cpu_percent": 16.0,
+    "process_cpu_percent": 1.6,
     "thread_count": 1,
-    "load_avg": 1.646484375
+    "load_avg": 2.3857421875
   },
   {
-    "timestamp": 1772359292.047658,
-    "cpu_percent": 14.9,
-    "process_cpu_percent": 0.1,
+    "timestamp": 1772361745.146852,
+    "cpu_percent": 30.3,
+    "process_cpu_percent": 1.7,
     "thread_count": 1,
-    "load_avg": 1.646484375
+    "load_avg": 2.5146484375
   },
   {
-    "timestamp": 1772359293.053612,
-    "cpu_percent": 12.8,
-    "process_cpu_percent": 0.1,
+    "timestamp": 1772361745.350348,
+    "cpu_percent": 50.0,
+    "process_cpu_percent": 1.3,
     "thread_count": 1,
-    "load_avg": 1.646484375
+    "load_avg": 2.5146484375
   },
   {
-    "timestamp": 1772359294.0556328,
-    "cpu_percent": 11.4,
-    "process_cpu_percent": 0.1,
+    "timestamp": 1772361745.553678,
+    "cpu_percent": 17.5,
+    "process_cpu_percent": 0.7,
     "thread_count": 1,
-    "load_avg": 1.646484375
+    "load_avg": 2.5146484375
   },
   {
-    "timestamp": 1772359295.06224,
-    "cpu_percent": 13.7,
-    "process_cpu_percent": 0.2,
+    "timestamp": 1772361745.7556229,
+    "cpu_percent": 23.9,
+    "process_cpu_percent": 0.8,
     "thread_count": 1,
-    "load_avg": 1.646484375
+    "load_avg": 2.5146484375
   },
   {
-    "timestamp": 1772359296.064723,
-    "cpu_percent": 17.1,
-    "process_cpu_percent": 0.1,
+    "timestamp": 1772361745.9593449,
+    "cpu_percent": 20.1,
+    "process_cpu_percent": 0.8,
     "thread_count": 1,
-    "load_avg": 1.83447265625
+    "load_avg": 2.5146484375
   },
   {
-    "timestamp": 1772359297.0711539,
-    "cpu_percent": 12.2,
-    "process_cpu_percent": 0.1,
+    "timestamp": 1772361746.162941,
+    "cpu_percent": 26.8,
+    "process_cpu_percent": 0.9,
     "thread_count": 1,
-    "load_avg": 1.83447265625
+    "load_avg": 2.5146484375
   },
   {
-    "timestamp": 1772359298.074792,
-    "cpu_percent": 12.7,
-    "process_cpu_percent": 0.2,
+    "timestamp": 1772361746.369353,
+    "cpu_percent": 37.2,
+    "process_cpu_percent": 0.9,
     "thread_count": 1,
-    "load_avg": 1.83447265625
+    "load_avg": 2.5146484375
   },
   {
-    "timestamp": 1772359299.080065,
+    "timestamp": 1772361746.5760279,
+    "cpu_percent": 13.4,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361746.78339,
+    "cpu_percent": 21.1,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361746.989939,
+    "cpu_percent": 16.6,
+    "process_cpu_percent": 0.7,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361747.196275,
+    "cpu_percent": 29.9,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361747.4003341,
+    "cpu_percent": 26.5,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361747.602593,
+    "cpu_percent": 55.6,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361747.805177,
+    "cpu_percent": 11.2,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361748.012872,
+    "cpu_percent": 13.9,
+    "process_cpu_percent": 1.4,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361748.220603,
+    "cpu_percent": 0.0,
+    "process_cpu_percent": 1.8,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361748.427159,
+    "cpu_percent": 28.1,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361748.634507,
+    "cpu_percent": 15.5,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361748.8417652,
+    "cpu_percent": 26.7,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361749.046221,
+    "cpu_percent": 22.6,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361749.249793,
+    "cpu_percent": 31.4,
+    "process_cpu_percent": 0.9,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361749.452542,
+    "cpu_percent": 17.6,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361749.654996,
+    "cpu_percent": 14.6,
+    "process_cpu_percent": 0.9,
+    "thread_count": 1,
+    "load_avg": 2.5146484375
+  },
+  {
+    "timestamp": 1772361749.861502,
     "cpu_percent": 11.6,
-    "process_cpu_percent": 0.2,
+    "process_cpu_percent": 0.7,
     "thread_count": 1,
-    "load_avg": 1.83447265625
+    "load_avg": 2.5146484375
   },
   {
-    "timestamp": 1772359300.081876,
-    "cpu_percent": 13.6,
-    "process_cpu_percent": 0.2,
+    "timestamp": 1772361750.063835,
+    "cpu_percent": 16.9,
+    "process_cpu_percent": 1.1,
     "thread_count": 1,
-    "load_avg": 1.83447265625
+    "load_avg": 2.47314453125
   },
   {
-    "timestamp": 1772359301.0889978,
-    "cpu_percent": 12.6,
-    "process_cpu_percent": 0.2,
+    "timestamp": 1772361750.267436,
+    "cpu_percent": 26.1,
+    "process_cpu_percent": 1.5,
     "thread_count": 1,
-    "load_avg": 1.84765625
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361750.471485,
+    "cpu_percent": 23.5,
+    "process_cpu_percent": 0.9,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361750.678369,
+    "cpu_percent": 10.4,
+    "process_cpu_percent": 0.9,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361750.8857129,
+    "cpu_percent": 14.5,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361751.0929348,
+    "cpu_percent": 21.7,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361751.296235,
+    "cpu_percent": 29.7,
+    "process_cpu_percent": 0.7,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361751.5001411,
+    "cpu_percent": 20.1,
+    "process_cpu_percent": 1.2,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361751.702433,
+    "cpu_percent": 19.1,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361751.9049091,
+    "cpu_percent": 36.5,
+    "process_cpu_percent": 1.0,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361752.107883,
+    "cpu_percent": 54.0,
+    "process_cpu_percent": 0.7,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361752.313333,
+    "cpu_percent": 41.9,
+    "process_cpu_percent": 1.3,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361752.5211048,
+    "cpu_percent": 34.1,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361752.727811,
+    "cpu_percent": 21.2,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361752.932669,
+    "cpu_percent": 15.6,
+    "process_cpu_percent": 0.9,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361753.1395688,
+    "cpu_percent": 26.8,
+    "process_cpu_percent": 0.9,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361753.344928,
+    "cpu_percent": 30.5,
+    "process_cpu_percent": 0.7,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361753.5521889,
+    "cpu_percent": 16.9,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361753.7587688,
+    "cpu_percent": 17.6,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361753.96088,
+    "cpu_percent": 15.9,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361754.162913,
+    "cpu_percent": 28.8,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361754.3689432,
+    "cpu_percent": 36.4,
+    "process_cpu_percent": 0.9,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361754.573371,
+    "cpu_percent": 14.8,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361754.776969,
+    "cpu_percent": 21.2,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361754.979415,
+    "cpu_percent": 19.0,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.47314453125
+  },
+  {
+    "timestamp": 1772361755.185992,
+    "cpu_percent": 41.5,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361755.3897548,
+    "cpu_percent": 35.8,
+    "process_cpu_percent": 1.2,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361755.596147,
+    "cpu_percent": 15.2,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361755.798028,
+    "cpu_percent": 19.6,
+    "process_cpu_percent": 0.9,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361756.00486,
+    "cpu_percent": 25.5,
+    "process_cpu_percent": 0.9,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361756.209225,
+    "cpu_percent": 33.3,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361756.412791,
+    "cpu_percent": 32.7,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361756.620376,
+    "cpu_percent": 49.7,
+    "process_cpu_percent": 1.2,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361756.828046,
+    "cpu_percent": 20.2,
+    "process_cpu_percent": 1.3,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361757.0339122,
+    "cpu_percent": 16.6,
+    "process_cpu_percent": 2.3,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361757.240968,
+    "cpu_percent": 30.1,
+    "process_cpu_percent": 2.3,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361757.4460852,
+    "cpu_percent": 24.5,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361757.654135,
+    "cpu_percent": 29.1,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361757.8614101,
+    "cpu_percent": 29.7,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361758.0686789,
+    "cpu_percent": 0.0,
+    "process_cpu_percent": 2.5,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361758.2770329,
+    "cpu_percent": 0.0,
+    "process_cpu_percent": 1.5,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361758.4793768,
+    "cpu_percent": 0.0,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361758.686559,
+    "cpu_percent": 41.2,
+    "process_cpu_percent": 1.0,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361758.89076,
+    "cpu_percent": 43.4,
+    "process_cpu_percent": 0.7,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361759.096004,
+    "cpu_percent": 25.2,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361759.300002,
+    "cpu_percent": 50.6,
+    "process_cpu_percent": 1.4,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361759.5052958,
+    "cpu_percent": 0.0,
+    "process_cpu_percent": 1.0,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361759.7135942,
+    "cpu_percent": 17.5,
+    "process_cpu_percent": 1.5,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361759.921545,
+    "cpu_percent": 35.5,
+    "process_cpu_percent": 2.4,
+    "thread_count": 1,
+    "load_avg": 2.51513671875
+  },
+  {
+    "timestamp": 1772361760.133575,
+    "cpu_percent": 25.9,
+    "process_cpu_percent": 1.7,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361760.337258,
+    "cpu_percent": 25.5,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361760.544063,
+    "cpu_percent": 16.0,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361760.754056,
+    "cpu_percent": 11.4,
+    "process_cpu_percent": 2.5,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361760.966393,
+    "cpu_percent": 19.7,
+    "process_cpu_percent": 3.5,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361761.173422,
+    "cpu_percent": 0.0,
+    "process_cpu_percent": 2.1,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361761.3763251,
+    "cpu_percent": 0.0,
+    "process_cpu_percent": 0.7,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361761.583874,
+    "cpu_percent": 0.0,
+    "process_cpu_percent": 1.2,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361761.801047,
+    "cpu_percent": 21.1,
+    "process_cpu_percent": 2.4,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361762.0121758,
+    "cpu_percent": 40.6,
+    "process_cpu_percent": 1.6,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361762.218986,
+    "cpu_percent": 0.0,
+    "process_cpu_percent": 2.8,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361762.425432,
+    "cpu_percent": 0.0,
+    "process_cpu_percent": 0.7,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361762.634387,
+    "cpu_percent": 0.0,
+    "process_cpu_percent": 1.0,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361762.843272,
+    "cpu_percent": 28.1,
+    "process_cpu_percent": 1.9,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361763.0495858,
+    "cpu_percent": 16.0,
+    "process_cpu_percent": 2.1,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361763.264543,
+    "cpu_percent": 81.7,
+    "process_cpu_percent": 2.3,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361763.470436,
+    "cpu_percent": 58.3,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361763.697688,
+    "cpu_percent": 96.6,
+    "process_cpu_percent": 1.0,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361763.9293492,
+    "cpu_percent": 44.0,
+    "process_cpu_percent": 1.1,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361764.135097,
+    "cpu_percent": 28.9,
+    "process_cpu_percent": 0.9,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361764.3423228,
+    "cpu_percent": 34.5,
+    "process_cpu_percent": 0.8,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361764.54933,
+    "cpu_percent": 20.0,
+    "process_cpu_percent": 0.9,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
+  },
+  {
+    "timestamp": 1772361764.756186,
+    "cpu_percent": 18.8,
+    "process_cpu_percent": 0.9,
+    "thread_count": 1,
+    "load_avg": 2.7939453125
   }
 ]
